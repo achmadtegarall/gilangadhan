@@ -1,32 +1,44 @@
-# Hi everyone!
-### My name is **Gilang Ramadhan**.
-I'm a *Code Reviewer* and *Curriculum Developer* for Android since 2018 at [Dicoding](https://www.dicoding.com/) after working at the unicorn. Since 2020 he is responsible for the quality of iOS material with a certification from the [University of Toronto]((https://www.coursera.org/account/accomplishments/specialization/CLKJD8XBXJ3M)) and [LearnQUest as Apple Authorized Global Training Provider](https://www.coursera.org/account/accomplishments/specialization/SRC6PMNEETX2). Earned the [Google Associate Android Developer](https://www.credential.net/h5deoi5h) title since 2019. 
+## Hi Everyone!  
+### 👨🏻‍🎓 My name is **Achmad Tegar Almannudin**  
 
-### Tech Stack
-  <img align="left" src="https://img.shields.io/badge/git-%23F05033.svg?logo=git&logoColor=white"/>
-  <img align="left" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white" />
-  <img align="left" src="https://img.shields.io/badge/java-%23ED8B00.svg?logo=java&logoColor=white"/>
-  <img align="left" src="https://img.shields.io/badge/kotlin-%230095D5.svg?logo=kotlin&logoColor=white"/>
-  <img align="left" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white"/>
-  <img align="left" src="https://img.shields.io/badge/iOS-000000?logo=ios&logoColor=white">
-  <img align="left" src="https://img.shields.io/badge/swift-%23FA7343.svg?logo=swift&logoColor=white"/>
-  <img align="left" src="https://img.shields.io/badge/Xcode-007ACC??logo=Xcode&logoColor=white"/>
-  <br><br>
+I'm a *Web Developer* and *Undergraduate Student* for Computer Science at [Mercubuana University](https://mercubuana.ac.id/) since 2022. I have been actively joining the [Google Developer Indonesia](https://www.instagram.com/gdevsid/) community since 2024, i am also part of [Google Developer Jakarta](https://gdg.community.dev/gdg-jakarta/) and [Google Cloud Developer Jakarta](https://gdg.community.dev/gdg-cloud-jakarta/). I have also completed several certified programming classes at [dicoding indonesia](https://www.dicoding.com/). 
 
-### Github Statistic
+### 🛠️ Tech Stack  
+<img align="left" src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white"/>  
+<img align="left" src="https://img.shields.io/badge/CSS-%231572B6.svg?logo=css3&logoColor=white"/>  
+<img align="left" src="https://img.shields.io/badge/JavaScript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E"/>  
+<img align="left" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white"/>  
+<img align="left" src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?logo=laravel&logoColor=white"/>  
+<img align="left" src="https://img.shields.io/badge/React-%2361DAFB.svg?logo=react&logoColor=black"/>  
+<img align="left" src="https://img.shields.io/badge/Tailwind-%2306B6D4.svg?logo=tailwindcss&logoColor=white"/>  
+<img align="left" src="https://img.shields.io/badge/Kotlin-%237F52FF.svg?logo=kotlin&logoColor=white"/>  
+<img align="left" src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white"/>  
+<br><br>
+
+### 📊 Github Statistic 
+#### Light Mode
 <p align="left">
-<a href="https://github.com/gilangadhan">
-<img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gilangadhan&layout=compact&langs_count=8&theme=buefy"/>
-<img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gilangadhan&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
+<a href="https://github.com/achmadtegarall">
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=achmadtegarall&layout=compact&langs_count=8&theme=buefy"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=achmadtegarall&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
 </a>
 </p>
 
-### 🔍 You Can Find Me at 
+#### Dark mode
+<p align="left">
+<a href="https://github.com/dimasmds">
+   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=achmadtegarall&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=achmadtegarall&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+</a>
+</p>
+
+### 🔍 You Can Find Me at  
 <p> 
-  <a href="https://www.linkedin.com/in/gilang-adhan/" target="_blank">
+  <a href="https://www.linkedin.com/in/achmad-tegar-almannudin-481a06319" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a> 
-  <a href="https://www.instagram.com/gilang_adhan/" target="_blank">
+  <a href="https://www.instagram.com/achmdtegar_al/" target="_blank">
     <img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
   </a> 
 </p>
+
